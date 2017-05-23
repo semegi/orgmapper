@@ -31,11 +31,11 @@ On March 8, **András Vicsek**, our Co-founder and Head of Research, hosted OrgM
 
 The webinar kicked off with a poll, asking the audience about their opinion on why change initiatives in 2016 still fail. **According to 69%** of attendees, failure can be attributed to employees not fully understanding the need for change.
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2016/03/OrgMapper-social-influence-VS-formal-hierarchy.png" rel="attachment wp-att-944"><img class="alignnone size-large wp-image-944" src="http://localhost:8080/wordpress/wp-content/uploads/2016/03/OrgMapper-social-influence-VS-formal-hierarchy-1024x578.png" alt="OrgMapper social influence VS formal hierarchy" width="980" height="553" /></a>
+<a href="/images/2016/03/OrgMapper-social-influence-VS-formal-hierarchy.png" rel="attachment wp-att-944"><img class="alignnone size-large wp-image-944" src="/images/2016/03/OrgMapper-social-influence-VS-formal-hierarchy-1024x578.png" alt="OrgMapper social influence VS formal hierarchy" width="980" height="553" /></a>
 
 András and Leandro discussed the **importance of shifting** organizational focus from processes and systems **to employee behaviors** during times of change, and outlined that **hierarchical influence is mostly over-estimated**, with peer-to-peer influence being the true engine of organizations.
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2016/03/OrgMapper-SAP-implementation-case-study.png" rel="attachment wp-att-941"><img class="alignnone size-large wp-image-941" src="http://localhost:8080/wordpress/wp-content/uploads/2016/03/OrgMapper-SAP-implementation-case-study-1024x576.png" alt="OrgMapper SAP implementation case study" width="980" height="551" /></a>
+<a href="/images/2016/03/OrgMapper-SAP-implementation-case-study.png" rel="attachment wp-att-941"><img class="alignnone size-large wp-image-941" src="/images/2016/03/OrgMapper-SAP-implementation-case-study-1024x576.png" alt="OrgMapper SAP implementation case study" width="980" height="551" /></a>
 
 A case study about knowledge-hubs within an organization, and how they were **utilized during a successful SAP implementation process**, was presented, and it was also highlighted that peer-elected **influential employees will always be your best change agents** aiding your initiatives, as acknowledgement by their colleagues will immediately result in motivation and commitment.
 

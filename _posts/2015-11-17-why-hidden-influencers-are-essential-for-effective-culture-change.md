@@ -61,7 +61,7 @@ Empowering your hidden influencers helps you:
 
 &nbsp;
 
-<img class="alignnone size-medium" src="http://localhost:8080/wordpress/wp-content/uploads/2015/11/david-bowie-changes.png" width="500" height="500" />
+<img class="alignnone size-medium" src="/images/2015/11/david-bowie-changes.png" width="500" height="500" />
 
 Identifying change agents, however, is only one leg of the job. Managers **must have a plan** to involve them in the creation or execution of the new strategies. These employees are usually highly committed and independent, and therefore must be viewed as co-creators and thought-partners, rather than mouthpieces. That will not suit their agendas.
 

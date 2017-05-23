@@ -31,7 +31,7 @@ First and foremost, OrgMapper | INFLUENCE is an essential tool for change manage
 
 **_Customer scenario:_**_ The customer was implementing a digital transformation with the purpose of improving customer service. This transformation meant going digital and leaving paper completely out of processes. Although the change itself was positive and made the daily jobs of employees much easier, our client organization wanted to make sure that the shift was as smooth and seamless as possible. So, they used OrgMapper | INFLUENCE to find their most influential employees and invite them to join their group of change managers leading the change. The role of the influencers was to minimize employee resistance, and to make sure employees had sufficient knowledge about what was required of them._
 
-<img class="alignnone size-medium" src="http://localhost:8080/wordpress/wp-content/uploads/2016/07/01-1-1024x768.png" width="1024" height="768" />
+<img class="alignnone size-medium" src="/images/2016/07/01-1-1024x768.png" width="1024" height="768" />
 
 <span style="color: #f92c49;"><strong>2. Internal Communications</strong></span>
 

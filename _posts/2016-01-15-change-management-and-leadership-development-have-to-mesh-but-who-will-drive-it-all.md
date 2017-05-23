@@ -27,13 +27,13 @@ tags:
   - Organizational Network Analysis
   - OrgMapper
 ---
-<img class=" size-full wp-image-692 aligncenter" src="http://localhost:8080/wordpress/wp-content/uploads/2016/01/anks-for-subscribing-1.png" alt="anks for Subscribing! (1)" width="600" height="200" />
+<img class=" size-full wp-image-692 aligncenter" src="/images/2016/01/anks-for-subscribing-1.png" alt="anks for Subscribing! (1)" width="600" height="200" />
 
 The Harvard Business Review (HBR) has recently published <a href="https://hbr.org/2016/01/change-management-and-leadership-development-have-to-mesh" target="_blank" rel="noopener noreferrer">an article</a> that really resonated with what we at OrgMapper believe in, as it focused on how _&#8220;leadership development and change management tend to be top priorities for many organizations.&#8221;_ But then again, we all know that **over two thirds of all change initiatives fail (approx. 70%).** It&#8217;s somewhat of a Catch-22 situation, because even though more and more organizations are putting greater emphasis on change management, they are still falling short.
 
 According to the HBR, these failures spring from the fact leadership development and change management are often treated separately, rather than as interrelated challenges. Approaching them as one and the same could potentially bring better results, because _&#8220;true leadership involves deviating from cultural expectations in ways that inspire others to choose to follow… and leadership is not the sole responsibility of the C-suite&#8221;_. We could not agree more with this statement, because **leaders (or as we like to call them: influencers) can be found at any level of an organization.**
 
-<img class="alignnone size-full wp-image-757" src="http://localhost:8080/wordpress/wp-content/uploads/2016/01/cm_both.png" alt="CM_Both" width="2724" height="756" />
+<img class="alignnone size-full wp-image-757" src="/images/2016/01/cm_both.png" alt="CM_Both" width="2724" height="756" />
 
 The HBR recommends a combination of both the **top-down** and **bottom-up** approaches, as the former ensures that executives clarify the desired results, while the latter enables potential leaders (influencers) throughout the organization to engage in a process of learning how to enact a desired change. _&#8220;Once the goal is clear and accepted, executives can identify potential leaders throughout the organization to engage in the leadership development/change management process.&#8221;_
 

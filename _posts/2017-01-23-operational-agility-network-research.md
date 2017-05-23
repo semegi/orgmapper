@@ -35,7 +35,7 @@ categories:
 
   1. <span style="font-family: 'Open Sans';">Stronger internal selling, convincing critical employee populations to start using new technologies and create new ways of work as they experiment. Yes, we can create formal objectives and rewards, but we start to change essentially when we see others – whom we respect and appreciate – doing so. So <strong>knowing</strong> these <strong>influencers</strong> and winning them over at an early stage is a wise accelerator, and needs doing.</span>
 
-##### <img class="aligncenter wp-image-1136 size-full" title="Get to know your influencers by networks research" src="http://localhost:8080/wordpress/wp-content/uploads/2017/01/Knowing-influencers-and-winning-them-over-at-an-early-stage-is-a-wise-accelerator-and-needs-doing..png" alt="Get to know your influencers by networks research" width="3000" height="1055" />
+##### <img class="aligncenter wp-image-1136 size-full" title="Get to know your influencers by networks research" src="/images/2017/01/Knowing-influencers-and-winning-them-over-at-an-early-stage-is-a-wise-accelerator-and-needs-doing..png" alt="Get to know your influencers by networks research" width="3000" height="1055" />
 
 ##### <span style="font-family: 'Open Sans';"><strong>Modern networks research methods </strong></span>
 

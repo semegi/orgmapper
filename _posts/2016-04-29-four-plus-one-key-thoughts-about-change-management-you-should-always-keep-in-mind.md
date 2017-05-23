@@ -36,7 +36,7 @@ In order to become and stay successful in managing change, here are a couple of 
   * Because let&#8217;s face it, **people will resist** and **not always do what they are told**. So make sure that your employees are on board and aware of the &#8220;why&#8221; and &#8220;how&#8221;, otherwise you cannot expect them to fully commit to the process.
   * Who needs to be involved in your initiative? Everyone really, **especially management**, since change must be in line with strategy, and who else other than management knows best the direction an organization wants to take. If peers **don&#8217;t see the commitment from top levels** and know their roles within the process, they quickly grow skeptical and wary of participating.
 
-<img class="wp-image-977 aligncenter" src="http://localhost:8080/wordpress/wp-content/uploads/2016/04/ChangeQuote-1024x768.png" alt="Change is inevitable" width="597" height="448" />
+<img class="wp-image-977 aligncenter" src="/images/2016/04/ChangeQuote-1024x768.png" alt="Change is inevitable" width="597" height="448" />
 
   * Last but not least, there is one more thing you shouldn&#8217;t forget. Internal communication is crucial, but it **does not equal to change management**. Consistent and constant communication is pivotal to any change program, but there is more to efficiently and effectively managing change than communications. Influencer identification for example, because if you don&#8217;t know who your most influential employees are, you will be fighting an uphill-battle.
 

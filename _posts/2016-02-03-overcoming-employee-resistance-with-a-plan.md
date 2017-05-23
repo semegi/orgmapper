@@ -29,7 +29,7 @@ _&#8220;Change often strikes a chord of fear in an organization&#8221;_ wrote Th
 
 Fearing the unknown is understandable, but if you prepare for your change initiative by getting to know your organization inside-out and crafting a **solid plan**, you have nothing to worry about.
 
-<img class=" wp-image-855 aligncenter" src="http://localhost:8080/wordpress/wp-content/uploads/2016/02/influencers-on-a-network-map-orgmapper.png" alt="Influencers on a network map - OrgMapper" width="643" height="432" />
+<img class=" wp-image-855 aligncenter" src="/images/2016/02/influencers-on-a-network-map-orgmapper.png" alt="Influencers on a network map - OrgMapper" width="643" height="432" />
 
 ## Overcoming Resistance
 
@@ -37,7 +37,7 @@ Change initiatives, in general, are often met with resistance from employees. Ho
   
 Resistance, if neglected, can bear serious consequences, as it may lead to poor morale, decreased efficiency and, in general, a disruptive work environment.<figure id="attachment_822" style="width: 400px" class="wp-caption alignright">
 
-<img class=" size-full wp-image-822 alignright" src="http://localhost:8080/wordpress/wp-content/uploads/2016/02/employee-resistance.jpg" alt="Employee Resistance" width="400" height="265" /><figcaption class="wp-caption-text">Source: LinkedIn</figcaption></figure> 
+<img class=" size-full wp-image-822 alignright" src="/images/2016/02/employee-resistance.jpg" alt="Employee Resistance" width="400" height="265" /><figcaption class="wp-caption-text">Source: LinkedIn</figcaption></figure> 
 
 In order to make sure a change initiative is successful, organizations tend to follow the common change management pattern of **Prepare, Manage, Reinforce**, yet an overwhelming majority of change projects still fail.
 

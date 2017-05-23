@@ -80,7 +80,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  And this is the issue.  Things can indeed turn out to be nice and adequate in the end, but you might be out of business by then. Organizations under market, technology and societal pressures do not have the luxury to wait. <a href="http://localhost:8080/wordpress/wp-content/uploads/2017/02/EY-is-your-corporate-strategy-fit-for-a-digital-world.pdf" target="_blank" rel="noopener noreferrer">It has got to be right, but right now. </a>
+  And this is the issue.  Things can indeed turn out to be nice and adequate in the end, but you might be out of business by then. Organizations under market, technology and societal pressures do not have the luxury to wait. <a href="/images/2017/02/EY-is-your-corporate-strategy-fit-for-a-digital-world.pdf" target="_blank" rel="noopener noreferrer">It has got to be right, but right now. </a>
 </p>
 
 <h2 style="text-align: justify;">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  The third, emerging wave of organizational design approach could be a kind of a synthesis. I call it Networks School. Yes, map out carefully where the natural flows of information, relationships and energy (and power) can be found in an organization. But it is no longer enough to just remove barriers and silos. One needs to purposefully nurture the growth of networks, relationships and trust in critical places. And we tend to know where this critical places of business is. Iinnovation is one of the usual suspects; the client relationship is another; and we can name sector or organization specific hotspots. If not, <a href="http://localhost:8080/wordpress/wp-content/uploads/2017/02/global-transformation-study-2016.pdf" target="_blank" rel="noopener noreferrer">there are trusted techniques</a> to determine these by using operations data for pain-points, customer feedback, competitive benchmarks or others.
+  The third, emerging wave of organizational design approach could be a kind of a synthesis. I call it Networks School. Yes, map out carefully where the natural flows of information, relationships and energy (and power) can be found in an organization. But it is no longer enough to just remove barriers and silos. One needs to purposefully nurture the growth of networks, relationships and trust in critical places. And we tend to know where this critical places of business is. Iinnovation is one of the usual suspects; the client relationship is another; and we can name sector or organization specific hotspots. If not, <a href="/images/2017/02/global-transformation-study-2016.pdf" target="_blank" rel="noopener noreferrer">there are trusted techniques</a> to determine these by using operations data for pain-points, customer feedback, competitive benchmarks or others.
 </p>
 
 <h2 style="text-align: justify;">

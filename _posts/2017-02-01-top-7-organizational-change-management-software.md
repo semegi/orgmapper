@@ -114,5 +114,5 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <img class="wp-image-1142 size-full aligncenter" src="http://localhost:8080/wordpress/wp-content/uploads/2017/02/IMG_3725.png" alt="7 Organizational change management tools" width="800" height="800" />
+  <img class="wp-image-1142 size-full aligncenter" src="/images/2017/02/IMG_3725.png" alt="7 Organizational change management tools" width="800" height="800" />
 </p>

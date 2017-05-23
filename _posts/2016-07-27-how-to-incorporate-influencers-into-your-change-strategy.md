@@ -31,7 +31,7 @@ You already know that with **OrgMapper | INFLUENCE** you can identify your m
 
 But that&#8217;s not all. They also focus their efforts on the effects of changes in technologies, structures, or processes on interpersonal and group relationships in the organization. So, **an influencer&#8217;s primary role is to assist in managing impact, the impact of change.**
 
-<img class=" wp-image-1081 aligncenter" src="http://localhost:8080/wordpress/wp-content/uploads/2016/07/What-an-influencer-does-1024x768.png" alt="What an influencer does" width="764" height="573" />
+<img class=" wp-image-1081 aligncenter" src="/images/2016/07/What-an-influencer-does-1024x768.png" alt="What an influencer does" width="764" height="573" />
 
 &nbsp;
 

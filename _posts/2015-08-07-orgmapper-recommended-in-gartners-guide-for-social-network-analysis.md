@@ -27,7 +27,7 @@ tags:
   - Maven7
   - OrgMapper
 ---
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2015/08/gartner-market-guide.jpg" target="_blank" rel="noopener noreferrer"><img class="alignleft wp-image-72" src="http://localhost:8080/wordpress/wp-content/uploads/2015/08/gartner-market-guide.jpg?w=300" alt="gartner market guide for social network analysis" width="220" height="140" /></a>Are you evaluating Organizational Network Analysis tools?
+<a href="/images/2015/08/gartner-market-guide.jpg" target="_blank" rel="noopener noreferrer"><img class="alignleft wp-image-72" src="/images/2015/08/gartner-market-guide.jpg?w=300" alt="gartner market guide for social network analysis" width="220" height="140" /></a>Are you evaluating Organizational Network Analysis tools?
 
 We are extremely proud to announce that OrgMapper&#8217;s parent company, <a href="http://maven7.com/" target="_blank" rel="noopener noreferrer">Maven7</a>, is featured as one of the recommended vendors in Gartner&#8217;s brand new market guide for Social Network Analysis.
 

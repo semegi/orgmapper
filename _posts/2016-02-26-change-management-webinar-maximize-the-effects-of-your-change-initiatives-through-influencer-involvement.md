@@ -39,7 +39,7 @@ Just a few days ago, we launched <a href="http://blog.orgmapper.com/2016/02/23/i
 **András Vicsek**, OrgMapper&#8217;s Head of Research, will be joined by Organization Architect, **Leandro Herrero,** to discuss maximizing the effects of change initiatives through influencer involvement.
 
 <p style="text-align: center;">
-  <a href="http://orgmapper.com/orgmapper-influence-webinar-maximize-the-effects-of-your-change-management-initiatives-through-influencer-involvement/"><img class="wp-image-905 size-full alignleft" src="http://localhost:8080/wordpress/wp-content/uploads/2016/02/OrgMapper-change-management-webinar-March-8.png" alt="" width="664" height="234" /></a>
+  <a href="http://orgmapper.com/orgmapper-influence-webinar-maximize-the-effects-of-your-change-management-initiatives-through-influencer-involvement/"><img class="wp-image-905 size-full alignleft" src="/images/2016/02/OrgMapper-change-management-webinar-March-8.png" alt="" width="664" height="234" /></a>
 </p>
 
 **Change Management webinar – March 8, 4-5 PM CET (10-11 AM EST)**

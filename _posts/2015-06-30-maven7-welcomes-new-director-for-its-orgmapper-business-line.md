@@ -26,7 +26,7 @@ tags:
   - Maven7
   - OrgMapper
 ---
-[<img class="size-full wp-image-25 alignleft" src="http://localhost:8080/wordpress/wp-content/uploads/2015/06/hiske-den-boer.jpg" alt="Hiske den Boer - OrgMapper director" width="329" height="329" />](http://localhost:8080/wordpress/wp-content/uploads/2015/06/hiske-den-boer.jpg)It is our pleasure to announce the appointment of Hiske den Boer as Director of our [OrgMapper](http://www.orgmapper.com/) business line. Hiske is joining us to oversee service delivery, as well as business- and product development related to organizational network analysis.
+[<img class="size-full wp-image-25 alignleft" src="/images/2015/06/hiske-den-boer.jpg" alt="Hiske den Boer - OrgMapper director" width="329" height="329" />](/images/2015/06/hiske-den-boer.jpg)It is our pleasure to announce the appointment of Hiske den Boer as Director of our [OrgMapper](http://www.orgmapper.com/) business line. Hiske is joining us to oversee service delivery, as well as business- and product development related to organizational network analysis.
 
 &#8220;With our recent <a href="http://maven7network.blogspot.hu/2015/06/maven7-raises-total-of-23m-to-bring-network-science-to-commercial-mass-audience.html" target="_blank" rel="noopener noreferrer">round of funding</a> we felt the time was just right to appoint a strategic leader who can help us take advantage of the tremendous opportunities in the marketplace, and bring new insights into our operations.&#8221; – said András Vicsek, Maven7&#8217;s co-founder and head of research. &#8220;We are delighted Hiske accepted our invitation.&#8221;
 

@@ -37,7 +37,7 @@ Based on the very meaning of the word, one simply cannot volunteer to be or be a
   
 When influencers are being appointed, the most common practice is the delegation of the role to those closest and most visible to management. Some of these employees might indeed be influential; however, more often than not, true influencers, e.g. your quiet subject matter experts discreetly sharing knowledge and information in the background, get overlooked. Influencers are everywhere in an organization; they can be found in every hierarchy-level, business unit, location, etc. It is not always the most visible ones, who can shape the opinions of others.
 
-<img class="alignnone size-large wp-image-1025" src="http://localhost:8080/wordpress/wp-content/uploads/2016/06/Not-always-the-most-visible-ones-1024x768.png" alt="Not always the most visible ones" width="980" height="735" />
+<img class="alignnone size-large wp-image-1025" src="/images/2016/06/Not-always-the-most-visible-ones-1024x768.png" alt="Not always the most visible ones" width="980" height="735" />
 
 In addition, **management-appointed change agents might feel that their new role is just another task, a burden**, and not an honorable challenge they would like to take on. On the other hand, **peer-elected influencers are likely to be more motivated and committed**, as they will feel the support of their colleagues. Furthermore, your employees will also be more likely to listen to influencers elected by the community as opposed to ones appointed by management. All in all, this process is not only more likely to succeed in the long-run, but it is also more democratic for both influencers and employees.
 
@@ -53,6 +53,6 @@ For more information on influencer identification, contact us at <a href="mailto
 
 **About the author:**
 
-<img class="wp-image-1029 alignleft" src="http://localhost:8080/wordpress/wp-content/uploads/2016/06/1_András-Vicsek.png" alt="1_András-Vicsek" width="129" height="92" />
+<img class="wp-image-1029 alignleft" src="/images/2016/06/1_András-Vicsek.png" alt="1_András-Vicsek" width="129" height="92" />
 
 **András Vicsek** is a work and organizational psychologist, and is responsible for research and product development at Maven7, the company behind OrgMapper. He is a management consultant and a trainer specialized in social and organizational network analysis.

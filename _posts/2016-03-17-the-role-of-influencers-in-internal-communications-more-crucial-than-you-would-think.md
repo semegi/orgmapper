@@ -60,7 +60,7 @@ However, just finding influencers is far from enough. They need to be **involved
 
 As Mike so rightly highlighted, internal communication is more likely to follow a 3% &#8211; 90% rule, as opposed to the famous 80-20 principle. What this means is that 3% of the employees is able to **initiate, drive** and **influence** conversations that reach 90% of peers. (For those of you interested in the scientific background of a concept similar to these rules, we recommend you to read <a href="http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200907-24_Science-Decade/200907-24_Science-Decade.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on Scale-Free Networks, by our Co-Founder, **Albert-László Barabási.**)
 
-<img class="aligncenter wp-image-953 size-large" src="http://localhost:8080/wordpress/wp-content/uploads/2016/03/Influence-Webinar-07-1024x577.png" alt="Influencers Reach More" width="980" height="552" />
+<img class="aligncenter wp-image-953 size-large" src="/images/2016/03/Influence-Webinar-07-1024x577.png" alt="Influencers Reach More" width="980" height="552" />
 
 ### So who are these influencers?
 
@@ -75,7 +75,7 @@ Our methodology uses the scores on capabilities and connections to categorize In
   * **Social Hubs** are the most well-connected employees whom many coworkers seek out for help, advice, and information
   * **Champions** are both role models and social hubs. They possess strong influencing capabilities and are also well connected
 
-<img class="alignnone wp-image-933 size-large" src="http://localhost:8080/wordpress/wp-content/uploads/2016/03/Influence-Webinar-08-1024x581.png" alt="Influential Employees" width="980" height="556" />
+<img class="alignnone wp-image-933 size-large" src="/images/2016/03/Influence-Webinar-08-1024x581.png" alt="Influential Employees" width="980" height="556" />
 
 As mentioned earlier, identifying influencers is not enough. They have to have **active roles** in the comms (or change) process. Influencers tend to be autonomous and ambitious employees. Therefore, they must not be used merely as mouthpieces. Their insights, ideas and suggestions can mean the difference between a **successful initiative** and a **complete organizational disaster**.
 

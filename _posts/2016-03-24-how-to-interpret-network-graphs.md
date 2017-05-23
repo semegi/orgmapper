@@ -28,7 +28,7 @@ tags:
 ---
 Network graphs provide a fantastic way to visualize interactions, communications patterns and the flow of information in an organization, but how do you interpret them? This article is to help you find your way in the wilderness of **nodes, edges, hubs** and **bridges**.
 
-<img class="alignnone wp-image-963 size-large" src="http://localhost:8080/wordpress/wp-content/uploads/2016/03/How-to-interpret-networks-1024x578.png" alt="How to interpret networks" width="980" height="553" />
+<img class="alignnone wp-image-963 size-large" src="/images/2016/03/How-to-interpret-networks-1024x578.png" alt="How to interpret networks" width="980" height="553" />
 
 **Nodes**
   

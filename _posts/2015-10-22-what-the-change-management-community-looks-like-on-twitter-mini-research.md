@@ -37,7 +37,7 @@ This time, however, we wanted to see who these influential key players are onlin
 
 We monitored a specific set of keywords related to Change Management from September 14 to October 7, 2015,­ and mined over 17,000 tweets, tracking the activities of 9,054 users. The below image showcases the network of key hubs.
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2015/10/kol-network.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-34 size-large" src="http://localhost:8080/wordpress/wp-content/uploads/2015/10/kol-network.png?w=660" alt="Change management KOL network on twitter" width="660" height="488" /></a>
+<a href="/images/2015/10/kol-network.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-34 size-large" src="/images/2015/10/kol-network.png?w=660" alt="Change management KOL network on twitter" width="660" height="488" /></a>
 
 _Each node (lilac dot) in the network above represents a Twitter account; the more interaction a user gets, the larger their node and label will be. For a better visual experience, the network is filtered to only depict edges (connections) that form amongst people who interacted with each other at least ten times. The thickness of the edges indicates the number of interactions between given users. Arrows indicate the direction of the interaction._
 
@@ -45,11 +45,11 @@ _Each node (lilac dot) in the network above represents a Twitter account; the mo
 
 Our analysis revealed a list of keywords most frequently used in conversations related to Change Management. On the below chart we filtered out the obvious _&#8220;Change&#8221;, &#8220;Management&#8221;, &#8220;Organizational&#8221;_ and _&#8220;#ChangeManagement&#8221;_ keywords in order to provide a more accurate picture of other relevant topics. The results demonstrated that innovation, culture and behavior are often mentioned together with Change Management.
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2015/10/top-keywords.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-35" src="http://localhost:8080/wordpress/wp-content/uploads/2015/10/top-keywords.png?w=211" alt="Change management top keywords on twitter" width="300" height="427" /></a>
+<a href="/images/2015/10/top-keywords.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-35" src="/images/2015/10/top-keywords.png?w=211" alt="Change management top keywords on twitter" width="300" height="427" /></a>
 
 _A different approach to visualizing key topics related to Change Management._
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2015/10/keywordcloud.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-36 size-medium" src="http://localhost:8080/wordpress/wp-content/uploads/2015/10/keywordcloud.png?w=300" alt="Change management top keywords tagcloud on twitter" width="300" height="151" /></a>
+<a href="/images/2015/10/keywordcloud.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-36 size-medium" src="/images/2015/10/keywordcloud.png?w=300" alt="Change management top keywords tagcloud on twitter" width="300" height="151" /></a>
 
 **Top Key Opinion Leaders in Change Management**
 
@@ -74,7 +74,7 @@ Based on our analysis, the final list of KOLs in the topic of Change Management 
 
 As you can see, being an online influencer is not solely about the number of followers a user may have. Our top list includes Twitter accounts with as few as 820 followers all the way to 61,000.
 
-<a href="http://localhost:8080/wordpress/wp-content/uploads/2015/10/top-10-kols.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-37 size-medium" src="http://localhost:8080/wordpress/wp-content/uploads/2015/10/top-10-kols.png?w=300" alt="Top 10 KOLs influencers in change management on twitter" width="300" height="259" /></a>
+<a href="/images/2015/10/top-10-kols.png" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-37 size-medium" src="/images/2015/10/top-10-kols.png?w=300" alt="Top 10 KOLs influencers in change management on twitter" width="300" height="259" /></a>
 
 **Why influencer marketing is important**
 

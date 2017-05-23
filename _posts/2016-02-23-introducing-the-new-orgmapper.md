@@ -49,7 +49,7 @@ Developed in the spirit of **continuous improvement**, with customer and partner
 
 &nbsp;
 
-[<img class="aligncenter wp-image-883 size-large" src="http://localhost:8080/wordpress/wp-content/uploads/2016/02/website-screenshot-1024x580.png" alt="OrgMapper Website" width="980" height="555" />](http://orgmapper.com)
+[<img class="aligncenter wp-image-883 size-large" src="/images/2016/02/website-screenshot-1024x580.png" alt="OrgMapper Website" width="980" height="555" />](http://orgmapper.com)
 
 &nbsp;
 
