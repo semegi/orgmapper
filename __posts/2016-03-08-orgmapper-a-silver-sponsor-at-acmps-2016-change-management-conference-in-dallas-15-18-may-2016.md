@@ -1,6 +1,6 @@
 ---
 id: 913
-title: 'OrgMapper a Silver Sponsor at ACMP&#039;s 2016 Change Management Conference in Dallas &#124; 15-18 May, 2016'
+title: 'OrgMapper a Silver Sponsor at ACMP's 2016 Change Management Conference in Dallas &#124; 15-18 May, 2016'
 date: 2016-03-08T23:36:12+00:00
 author: orgmapper
 layout: post

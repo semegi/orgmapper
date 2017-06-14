@@ -25,7 +25,7 @@ Influencer marketing, in which focus is placed on specific key individuals rathe
 
 > **Definition of change agents**
   
-> Change agents &#8211; or as we prefer to call them at OrgMapper: influencers, because based on their profiles they can be deployed for various other organizational initiatives besides change &#8211; are those respected and trusted individuals within a community who have the ability to be a compelling force on the actions, opinions and behaviors of others.
+> Change agents  -  or as we prefer to call them at OrgMapper: influencers, because based on their profiles they can be deployed for various other organizational initiatives besides change  -  are those respected and trusted individuals within a community who have the ability to be a compelling force on the actions, opinions and behaviors of others.
 
 ### Misconception: appointed or volunteer change agents will succeed at driving your vision
 

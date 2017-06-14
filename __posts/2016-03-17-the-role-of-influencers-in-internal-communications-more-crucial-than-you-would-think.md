@@ -1,6 +1,6 @@
 ---
 id: 951
-title: 'The Role of Influencers in Internal Communications &#8211; more crucial than you would think'
+title: 'The Role of Influencers in Internal Communications  -  more crucial than you would think'
 date: 2016-03-17T13:29:57+00:00
 author: orgmapper
 layout: post
@@ -58,7 +58,7 @@ These _&#8220;high-value/high-impact individuals&#8221;_, or influencers, as we 
 
 However, just finding influencers is far from enough. They need to be **involved and empowered**, so that their influence is utilized to ensure the success of the organization&#8217;s initiatives, whatever they might be.
 
-As Mike so rightly highlighted, internal communication is more likely to follow a 3% &#8211; 90% rule, as opposed to the famous 80-20 principle. What this means is that 3% of the employees is able to **initiate, drive** and **influence** conversations that reach 90% of peers. (For those of you interested in the scientific background of a concept similar to these rules, we recommend you to read <a href="http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200907-24_Science-Decade/200907-24_Science-Decade.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on Scale-Free Networks, by our Co-Founder, **Albert-László Barabási.**)
+As Mike so rightly highlighted, internal communication is more likely to follow a 3%  -  90% rule, as opposed to the famous 80-20 principle. What this means is that 3% of the employees is able to **initiate, drive** and **influence** conversations that reach 90% of peers. (For those of you interested in the scientific background of a concept similar to these rules, we recommend you to read <a href="http://www.barabasilab.com/pubs/CCNR-ALB_Publications/200907-24_Science-Decade/200907-24_Science-Decade.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on Scale-Free Networks, by our Co-Founder, **Albert-László Barabási.**)
 
 <img class="aligncenter wp-image-953 size-large" src="/images/2016/03/Influence-Webinar-07-1024x577.png" alt="Influencers Reach More" width="980" height="552" />
 

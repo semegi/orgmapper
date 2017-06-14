@@ -1,6 +1,6 @@
 ---
 id: 781
-title: 'Short video: OrgMapper &#124; Insights &#8211; Employee Resistance'
+title: 'Short video: OrgMapper &#124; Insights  -  Employee Resistance'
 date: 2016-01-29T15:02:39+00:00
 author: orgmapper
 layout: post
