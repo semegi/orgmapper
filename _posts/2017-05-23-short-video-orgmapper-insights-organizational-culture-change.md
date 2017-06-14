@@ -1,6 +1,6 @@
 ---
 id: 766
-title: 'Short video: OrgMapper | Insights &#8211; Organizational Culture Change'
+title: 'Short video: OrgMapper | Insights  -  Organizational Culture Change'
 date: 2017-05-23T09:17:13+00:00
 author: orgmapper
 layout: post

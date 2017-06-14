@@ -1,6 +1,6 @@
 ---
 id: 1164
-title: 'Maven7 OrgMapper&#039;s World Café for an Agile New Year'
+title: 'Maven7 OrgMapper's World Café for an Agile New Year'
 date: 2017-02-21T17:34:36+00:00
 author: orgmapper
 layout: post

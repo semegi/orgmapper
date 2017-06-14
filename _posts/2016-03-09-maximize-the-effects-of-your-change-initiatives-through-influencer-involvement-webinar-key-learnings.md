@@ -1,6 +1,6 @@
 ---
 id: 922
-title: 'Maximize the Effects of Your Change Initiatives Through Influencer Involvement &#8211; Webinar Key Learnings'
+title: 'Maximize the Effects of Your Change Initiatives Through Influencer Involvement  -  Webinar Key Learnings'
 date: 2016-03-09T11:18:29+00:00
 author: orgmapper
 layout: post

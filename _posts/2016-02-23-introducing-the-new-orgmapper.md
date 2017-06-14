@@ -38,7 +38,7 @@ After hundreds of work hours and dozens of sleepless nights, we are extremely p
 
 It is time to say farewell to the familiar blue and orange colors, as we have executed a full redesign of the brand, not just the tool. Let&#8217;s see OrgMapper&#8217;s new developments:
 
-  * more robust system to accommodate **30,000+ organizations** &#8211; number of survey respondents technically unlimited
+  * more robust system to accommodate **30,000+ organizations**  -  number of survey respondents technically unlimited
   * more complex and **sophisticated change agent selection**, based on latest advances in network science
   * clear and comprehensible **&#8216;theater gram&#8217; visualization** of complex data for large-scale projects
   * automated reporting system with **comprehensive narrative report** to present project outcomes

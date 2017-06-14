@@ -31,7 +31,7 @@ tags:
 ---
 _&#8220;As a manager, you may have the power to change your organization&#8217;s policies with the stroke of a pen. And you may have the ability to hire, fire, promote and demote people with relatively little effort._
 
-_But changing an entrenched culture is the toughest task you will face. To do so, you must win the hearts and minds of the people you work with, and that takes both cunning and persuasion.&#8221;_ &#8211; in his book, &#8216;The Wall Street Journal Guide To Management&#8217;, Alan Murray has perfectly described how incredibly difficult it is to change culture in an organization.
+_But changing an entrenched culture is the toughest task you will face. To do so, you must win the hearts and minds of the people you work with, and that takes both cunning and persuasion.&#8221;_  -  in his book, &#8216;The Wall Street Journal Guide To Management&#8217;, Alan Murray has perfectly described how incredibly difficult it is to change culture in an organization.
 
 <img class="wp-image-107 alignright" src="https://orgmapperdirect.files.wordpress.com/2015/11/shutterstock_89543437.jpg?w=300" alt="shutterstock_89543437" width="447" height="271" />According to <a href="http://www.strategyand.pwc.com/global/home/what_we_do/services/ocl/culture-and-change" target="_blank" rel="noopener noreferrer">a survey conducted by PwC Strategy&&#8217;s Katzenbach Center</a>, 84% of 2,200 managers and employees say culture is critical to their organizations&#8217; success, yet merely 53% of businesspeople say culture is an instrumental component of the leadership agenda in their organization. Even fewer firms are able to manage culture effectively, according to 35% of surveyed employees.
 

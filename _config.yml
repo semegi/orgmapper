@@ -1,13 +1,13 @@
-title: Organizational change management software | OrgMapper
-email: your-email@domain.com
+title: Organizational change management tool | OrgMapper®
+email: info@orgmapper.com
 description: >-
   Organizational change management software which helps companies to identify
   the hidden influencers in their organizations who boost internal communication
   and help accelerate change
 baseurl: ''
-url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+url: 'https://orgmapper.com/'
+twitter_username: orgmapper
+github_username: orgmapper
 markdown: kramdown
 theme: minima
 gems:
