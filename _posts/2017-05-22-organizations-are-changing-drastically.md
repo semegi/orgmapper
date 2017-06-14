@@ -1,14 +1,15 @@
 ---
-id: 3814
 title: Organizations are changing drastically
-date: 2017-05-22T08:35:14+00:00
+id: 3814
+date: '2017-05-22 10:35:14 +0200'
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3814/
-permalink: /2017/05/22/organizations-are-changing-drastically/
+permalink: "/2017/05/22/organizations-are-changing-drastically/"
 categories:
-  - Organizational Change Management
+- Organizational Change Management
 ---
+
 ### Organizations are changing drastically in the context of digital business models and automation. This means we need to look at them differently now, and good old orgcharts no longer help us – in fact, they do more harm than good. What is the emerging alternative? One is network analytics and visualization, and here is the essential brief.
 
 >  &#8220;Change the way you look at things, and the things you look at will change.&#8221; – Wayne Dryer
