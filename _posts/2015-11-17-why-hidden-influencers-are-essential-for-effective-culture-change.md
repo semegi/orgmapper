@@ -5,7 +5,7 @@ date: 2015-11-17T15:30:08+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=96
-permalink: /2015/11/17/why-hidden-influencers-are-essential-for-effective-culture-change/
+permalink: why-hidden-influencers-are-essential-for-effective-culture-change/
 mfn-post-love:
   - "0"
 slide_template:

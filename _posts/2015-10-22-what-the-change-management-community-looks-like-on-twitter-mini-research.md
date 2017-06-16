@@ -5,7 +5,7 @@ date: 2015-10-22T13:57:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=33
-permalink: /2015/10/22/what-the-change-management-community-looks-like-on-twitter-mini-research/
+permalink: what-the-change-management-community-looks-like-on-twitter-mini-research/
 geo_latitude:
   - "42.360082"
 geo_longitude:

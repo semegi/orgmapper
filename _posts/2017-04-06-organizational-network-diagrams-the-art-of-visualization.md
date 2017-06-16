@@ -5,7 +5,7 @@ date: 2017-04-06T19:09:14+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3723/
-permalink: /2017/04/06/organizational-network-diagrams-the-art-of-visualization/
+permalink: organizational-network-diagrams-the-art-of-visualization/
 slide_template:
   - default
 mfn-post-hide-content:

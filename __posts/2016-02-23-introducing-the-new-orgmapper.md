@@ -5,7 +5,7 @@ date: 2016-02-23T16:26:21+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=876
-permalink: /2016/02/23/introducing-the-new-orgmapper/
+permalink: introducing-the-new-orgmapper/
 mfn-post-love:
   - "0"
 categories:

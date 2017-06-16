@@ -5,7 +5,7 @@ date: 2017-04-28T05:15:53+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3819/
-permalink: /2017/04/28/everything-about-orgmapper-influence/
+permalink: everything-about-orgmapper-influence/
 slide_template:
   - default
 mfn-post-hide-content:

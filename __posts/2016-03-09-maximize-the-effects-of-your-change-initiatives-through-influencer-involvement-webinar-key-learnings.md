@@ -5,7 +5,7 @@ date: 2016-03-09T11:18:29+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=922
-permalink: /2016/03/09/maximize-the-effects-of-your-change-initiatives-through-influencer-involvement-webinar-key-learnings/
+permalink: maximize-the-effects-of-your-change-initiatives-through-influencer-involvement-webinar-key-learnings/
 mfn-post-love:
   - "0"
 slide_template:

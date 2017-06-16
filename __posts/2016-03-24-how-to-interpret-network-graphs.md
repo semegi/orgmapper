@@ -5,7 +5,7 @@ date: 2016-03-24T11:30:34+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=960
-permalink: /2016/03/24/how-to-interpret-network-graphs/
+permalink: how-to-interpret-network-graphs/
 mfn-post-love:
   - "0"
 slide_template:

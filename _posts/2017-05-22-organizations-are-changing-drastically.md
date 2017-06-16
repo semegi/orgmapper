@@ -5,7 +5,7 @@ date: '2017-05-22 10:35:14 +0200'
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3814/
-permalink: "/2017/05/22/organizations-are-changing-drastically/"
+permalink: /organizations-are-changing-drastically/"
 categories:
 - Organizational Change Management
 ---

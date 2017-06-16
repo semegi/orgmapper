@@ -5,7 +5,7 @@ date: 2015-06-30T12:37:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=23
-permalink: /2015/06/30/maven7-welcomes-new-director-for-its-orgmapper-business-line/
+permalink: maven7-welcomes-new-director-for-its-orgmapper-business-line/
 geo_latitude:
   - "47.497912"
 geo_longitude:

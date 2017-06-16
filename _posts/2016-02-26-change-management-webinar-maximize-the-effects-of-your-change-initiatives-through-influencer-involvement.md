@@ -5,7 +5,7 @@ date: 2016-02-26T16:04:49+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=895
-permalink: /2016/02/26/change-management-webinar-maximize-the-effects-of-your-change-initiatives-through-influencer-involvement/
+permalink: change-management-webinar-maximize-the-effects-of-your-change-initiatives-through-influencer-involvement/
 mfn-post-love:
   - "0"
 categories:

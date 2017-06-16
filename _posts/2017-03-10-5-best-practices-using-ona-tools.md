@@ -5,7 +5,7 @@ date: 2017-03-10T13:39:13+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3628/
-permalink: /2017/03/10/5-best-practices-using-ona-tools/
+permalink: 5-best-practices-using-ona-tools/
 slide_template:
   - default
 mfn-post-hide-content:

@@ -5,7 +5,7 @@ date: 2016-12-13T13:30:48+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1114
-permalink: /2016/12/13/business-agility/
+permalink: business-agility/
 mfn-post-love:
   - "0"
 categories:

@@ -5,7 +5,7 @@ date: 2016-04-29T09:47:41+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=974
-permalink: /2016/04/29/four-plus-one-key-thoughts-about-change-management-you-should-always-keep-in-mind/
+permalink: four-plus-one-key-thoughts-about-change-management-you-should-always-keep-in-mind/
 mfn-post-love:
   - "0"
 slide_template:

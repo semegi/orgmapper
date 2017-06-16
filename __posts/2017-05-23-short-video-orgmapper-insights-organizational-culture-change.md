@@ -5,7 +5,7 @@ date: 2017-05-23T09:17:13+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=766
-permalink: /2017/05/23/short-video-orgmapper-insights-organizational-culture-change/
+permalink: short-video-orgmapper-insights-organizational-culture-change/
 categories:
   - ChangeMapper
   - Organizational Change Management

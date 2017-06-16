@@ -5,7 +5,7 @@ date: 2016-07-05T20:32:52+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1036
-permalink: /2016/07/05/elect-empower-enhance-top-3-influencer-involvement-scenarios/
+permalink: elect-empower-enhance-top-3-influencer-involvement-scenarios/
 mfn-post-love:
   - "0"
 categories:

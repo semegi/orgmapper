@@ -5,7 +5,7 @@ date: 2017-04-21T07:42:54+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3774/
-permalink: /2017/04/21/5-essential-network-management-skills/
+permalink: 5-essential-network-management-skills/
 slide_template:
   - default
 mfn-post-hide-content:

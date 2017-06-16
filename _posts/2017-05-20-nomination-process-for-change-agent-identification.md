@@ -5,7 +5,7 @@ date: 2017-05-20T11:52:49+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3840/
-permalink: /2017/05/20/nomination-process-for-change-agent-identification/
+permalink: nomination-process-for-change-agent-identification/
 slide_template:
   - default
 mfn-post-hide-content:

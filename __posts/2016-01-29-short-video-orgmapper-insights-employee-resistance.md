@@ -5,7 +5,7 @@ date: 2016-01-29T15:02:39+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=781
-permalink: /2016/01/29/short-video-orgmapper-insights-employee-resistance/
+permalink: short-video-orgmapper-insights-employee-resistance/
 mfn-post-love:
   - "0"
 categories:

@@ -5,7 +5,7 @@ date: 2014-02-21T12:18:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=12
-permalink: /2014/02/21/firmnet-online-rebranded-to-orgmapper/
+permalink: firmnet-online-rebranded-to-orgmapper/
 geo_public:
   - "1"
 geo_latitude:

@@ -5,7 +5,7 @@ date: 2015-03-27T11:40:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=15
-permalink: /2015/03/27/how-the-hr-tech-europe-conference-went-down-on-twitter/
+permalink: how-the-hr-tech-europe-conference-went-down-on-twitter/
 geo_latitude:
   - "47.497912"
 geo_longitude:

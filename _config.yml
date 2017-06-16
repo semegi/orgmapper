@@ -5,7 +5,7 @@ description: >-
   the hidden influencers in their organizations who boost internal communication
   and help accelerate change
 baseurl: ''
-url: 'https://orgmapper.com/'
+url: ''
 twitter_username: orgmapper
 github_username: orgmapper
 markdown: kramdown

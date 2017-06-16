@@ -5,7 +5,7 @@ date: 2016-03-17T13:29:57+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=951
-permalink: /2016/03/17/the-role-of-influencers-in-internal-communications-more-crucial-than-you-would-think/
+permalink: the-role-of-influencers-in-internal-communications-more-crucial-than-you-would-think/
 mfn-post-love:
   - "0"
 slide_template:

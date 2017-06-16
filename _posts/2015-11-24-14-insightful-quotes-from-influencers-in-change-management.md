@@ -5,7 +5,7 @@ date: 2015-11-24T16:52:19+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=260
-permalink: /2015/11/24/14-insightful-quotes-from-influencers-in-change-management/
+permalink: 14-insightful-quotes-from-influencers-in-change-management/
 mfn-post-love:
   - "0"
 categories:

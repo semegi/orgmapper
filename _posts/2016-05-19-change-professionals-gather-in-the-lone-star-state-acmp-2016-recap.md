@@ -5,7 +5,7 @@ date: 2016-05-19T13:25:19+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=994
-permalink: /2016/05/19/change-professionals-gather-in-the-lone-star-state-acmp-2016-recap/
+permalink: change-professionals-gather-in-the-lone-star-state-acmp-2016-recap/
 mfn-post-love:
   - "0"
 categories:

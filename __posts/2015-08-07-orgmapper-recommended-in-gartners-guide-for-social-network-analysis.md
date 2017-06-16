@@ -5,7 +5,7 @@ date: 2015-08-07T10:56:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=71
-permalink: /2015/08/07/orgmapper-recommended-in-gartners-guide-for-social-network-analysis/
+permalink: orgmapper-recommended-in-gartners-guide-for-social-network-analysis/
 geo_latitude:
   - "47.497912"
 geo_longitude:

@@ -5,7 +5,7 @@ date: 2017-02-01T20:45:11+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1131
-permalink: /2017/02/01/top-7-organizational-change-management-software/
+permalink: top-7-organizational-change-management-software/
 mfn-post-love:
   - "0"
 slide_template:

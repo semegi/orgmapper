@@ -5,7 +5,7 @@ date: 2016-03-08T23:36:12+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=913
-permalink: /2016/03/08/orgmapper-a-silver-sponsor-at-acmps-2016-change-management-conference-in-dallas-15-18-may-2016/
+permalink: orgmapper-a-silver-sponsor-at-acmps-2016-change-management-conference-in-dallas-15-18-may-2016/
 mfn-post-love:
   - "0"
 categories:

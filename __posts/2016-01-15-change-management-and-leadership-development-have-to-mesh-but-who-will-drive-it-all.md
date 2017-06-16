@@ -5,7 +5,7 @@ date: 2016-01-15T14:02:34+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=684
-permalink: /2016/01/15/change-management-and-leadership-development-have-to-mesh-but-who-will-drive-it-all/
+permalink: change-management-and-leadership-development-have-to-mesh-but-who-will-drive-it-all/
 mfn-post-love:
   - "0"
 categories:

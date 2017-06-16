@@ -5,7 +5,7 @@ date: 2016-02-03T16:09:17+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=802
-permalink: /2016/02/03/overcoming-employee-resistance-with-a-plan/
+permalink: overcoming-employee-resistance-with-a-plan/
 mfn-post-love:
   - "0"
 categories:

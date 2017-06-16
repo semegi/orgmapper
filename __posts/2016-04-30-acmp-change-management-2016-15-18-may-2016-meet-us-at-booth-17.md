@@ -5,7 +5,7 @@ date: 2016-04-30T10:52:22+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=985
-permalink: /2016/04/30/acmp-change-management-2016-15-18-may-2016-meet-us-at-booth-17/
+permalink: acmp-change-management-2016-15-18-may-2016-meet-us-at-booth-17/
 mfn-post-love:
   - "0"
 categories:

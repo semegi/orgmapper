@@ -5,7 +5,7 @@ date: 2016-07-27T14:03:45+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1060
-permalink: /2016/07/27/how-to-incorporate-influencers-into-your-change-strategy/
+permalink: how-to-incorporate-influencers-into-your-change-strategy/
 mfn-post-love:
   - "0"
 categories:

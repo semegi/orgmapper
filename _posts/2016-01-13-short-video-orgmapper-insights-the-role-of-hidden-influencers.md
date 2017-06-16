@@ -5,7 +5,7 @@ date: 2016-01-13T12:51:43+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=657
-permalink: /2016/01/13/short-video-orgmapper-insights-the-role-of-hidden-influencers/
+permalink: short-video-orgmapper-insights-the-role-of-hidden-influencers/
 mfn-post-love:
   - "0"
 slide_template:

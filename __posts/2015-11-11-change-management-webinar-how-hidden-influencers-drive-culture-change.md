@@ -5,7 +5,7 @@ date: 2015-11-11T14:01:03+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=82
-permalink: /2015/11/11/change-management-webinar-how-hidden-influencers-drive-culture-change/
+permalink: change-management-webinar-how-hidden-influencers-drive-culture-change/
 mfn-post-love:
   - "0"
 categories:

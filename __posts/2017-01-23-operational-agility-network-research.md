@@ -5,7 +5,7 @@ date: 2017-01-23T14:59:12+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1105
-permalink: /2017/01/23/operational-agility-network-research/
+permalink: operational-agility-network-research/
 mfn-post-love:
   - "0"
 categories:

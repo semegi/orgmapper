@@ -5,7 +5,7 @@ date: 2015-03-12T12:57:00+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=27
-permalink: /2015/03/12/why-we-love-organizational-network-analysis-interview-with-patti-anklam/
+permalink: why-we-love-organizational-network-analysis-interview-with-patti-anklam/
 geo_latitude:
   - "42.360082"
 geo_longitude:

@@ -5,7 +5,7 @@ date: 2017-03-29T11:44:18+00:00
 author: orgmapper
 layout: post
 guid: http://orgmapper.com/?p=3689/
-permalink: /2017/03/29/4-features-look-ona-software/
+permalink: 4-features-look-ona-software/
 slide_template:
   - default
 mfn-post-hide-content:

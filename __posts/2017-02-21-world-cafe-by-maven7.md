@@ -5,7 +5,7 @@ date: 2017-02-21T17:34:36+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1164
-permalink: /2017/02/21/world-cafe-by-maven7/
+permalink: world-cafe-by-maven7/
 mfn-post-love:
   - "0"
 slide_template:

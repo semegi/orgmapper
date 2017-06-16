@@ -5,7 +5,7 @@ date: 2016-06-13T16:06:04+00:00
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=1003
-permalink: /2016/06/13/the-greatest-misconception-about-change-agent-involvement/
+permalink: the-greatest-misconception-about-change-agent-involvement/
 mfn-post-love:
   - "0"
 categories:

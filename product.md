@@ -1,7 +1,7 @@
 ---
 title: Product
 layout: page
-permalink: "/product/"
+permalink:  "/product/"
 ---
 
 # OrgMapper | Influence
