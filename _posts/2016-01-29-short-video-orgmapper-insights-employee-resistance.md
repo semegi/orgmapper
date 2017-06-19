@@ -27,7 +27,8 @@ tags:
 ---
 OrgMapper | Insights is back with a new video, in which **Hiske den Boer**, Business Unit Director of OrgMapper, talks about employee resistance to change and how it can be overcome by involving employees in the change process from an early stage.
 
-[youtube https://www.youtube.com/watch?v=ERu2LhGisZo]
+<iframe src="https://www.youtube.com/watch?v=ERu2LhGisZo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 Key Learning points of this episode:
 

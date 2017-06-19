@@ -25,7 +25,7 @@ tags:
 ---
 In two weeks&#8217; time the OrgMapper team will be _en route_ to Dallas, to participate at the <a href="http://acmpconference.com" target="_blank" rel="noopener noreferrer">ACMP Change Management Conference</a> as Silver Sponsors.
 
-We are thrilled to be bringing our unique network approach to this year&#8217;s event and we would love to meet you there. You&#8217;ll be able to find us at **Booth #17** in the Exhibition Hall, where you can ask us about the unique way OrgMapper | INFLUENCE identifies key influencers within organizations, and learn about the characteristics of these influential employees.
+We are thrilled to be bringing our unique network approach to this year&#8217;s event and we would love to meet you there. You&#8217;ll be able to find us at **Booth #17** in the Exhibition Hall, where you can ask us about the unique way OrgMapper INFLUENCE identifies key influencers within organizations, and learn about the characteristics of these influential employees.
 
 <a href="http://orgmapper.com/dallas" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-986" src="/images/2016/04/OrgMapper-Meetup-at-ACMP-Change-Management-Conference-Dallas-2016.png" alt="OrgMapper Meetup at ACMP Change Management Conference - Dallas 2016" width="645" height="422" /></a>
 

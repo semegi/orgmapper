@@ -28,7 +28,6 @@ tags:
 OrgMapper | Insights is back with a new video, in which, **Hiske den Boer, Director at OrgMapper**, talks about organizational culture change and its effects on the established social arrangements for doing work.
 
 <iframe src="https://www.youtube.com/embed/ghWx6qrSIsA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-{% include youtube.html src=https://www.youtube.com/embed/ghWx6qrSIsA" %}
 
 **Key Learning points of this episode:**
 

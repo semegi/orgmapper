@@ -35,7 +35,7 @@ We hope you managed to dig yourself out from under the virtual pile of emails am
 
 The video below is the first episode of **OrgMapper | Insights**, a new series featuring leaders and decision-makers talking about the network approach and its benefits. In this episode, **András Vicsek, Head of Research at Maven7**, talks about the roles and importance of hidden influencers in an organization, and how they can contribute to effective change management.
 
-[youtube https://www.youtube.com/watch?v=Y9erFvpwHVs]
+<iframe src="https://www.youtube.com/watch?v=Y9erFvpwHVs" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Key learning points of this episode:**
 
