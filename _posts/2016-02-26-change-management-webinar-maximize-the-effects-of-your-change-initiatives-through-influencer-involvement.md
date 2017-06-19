@@ -29,7 +29,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.orgmapper.com/2016/03/09/maximize-the-effects-of-your-change-initiatives-through-influencer-involvement-webinar-key-learnings/" target="_blank" rel="noopener noreferrer"><button style="background-color: #f92c49;" type="button"><span style="font-size: 20px;">THIS EVENT HAS ALREADY TAKEN PLACE &#8211; WATCH RECORDING</span></button></a>
+  <a href="http://blog.orgmapper.com/2016/03/09/maximize-the-effects-of-your-change-initiatives-through-influencer-involvement-webinar-key-learnings/" target="_blank" rel="noopener noreferrer"><button style="background-color: #f92c49;" type="button"><span style="font-size: 20px;">THIS EVENT HAS ALREADY TAKEN PLACE - WATCH RECORDING</span></button></a>
 </p>
 
 &nbsp;

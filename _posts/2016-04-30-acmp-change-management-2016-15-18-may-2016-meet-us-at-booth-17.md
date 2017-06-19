@@ -1,6 +1,6 @@
 ---
 id: 985
-title: 'ACMP Change Management 2016 | 15-18 May, 2016 &#8211; Meet us at booth #17'
+title: 'ACMP Change Management 2016 | 15-18 May, 2016 - Meet us at booth #17'
 date: 2016-04-30T10:52:22+00:00
 author: orgmapper
 layout: post

@@ -9,9 +9,13 @@ url: ''
 twitter_username: orgmapper
 github_username: orgmapper
 markdown: kramdown
+sass:
+  style: compressed
 theme: minima
 gems:
   - jekyll-feed
+  - algoliasearch-jekyll
 exclude:
   - Gemfile
   - Gemfile.lock
+google_analytics: UA-100619009-1

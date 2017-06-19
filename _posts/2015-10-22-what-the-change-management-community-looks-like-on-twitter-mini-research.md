@@ -1,6 +1,6 @@
 ---
 id: 33
-title: 'What the change management community looks like on Twitter &#8211; mini research'
+title: 'What the change management community looks like on Twitter - mini research'
 date: 2015-10-22T13:57:00+00:00
 author: orgmapper
 layout: post

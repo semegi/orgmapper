@@ -42,11 +42,11 @@ categories:
 
 <span style="font-weight: 400;">To build a strong network of local Change Agents, we based OrgMapper on a set of <a href="http://orgmapper.com/organizational-network-diagrams-the-art-of-visualization/" target="_blank" rel="noopener noreferrer">sociometric </a>questions to nominate employees. Hence we look for those with the following key capabilities:</span>
 
-  1. <span style="font-weight: 400;">Communication &#8211; Ability to gather information and communicate effectively about change initiatives</span>
-  2. <span style="font-weight: 400;">Interpersonal &#8211; Ability to sustain interpersonal trust</span>
-  3. <span style="font-weight: 400;">Mobilization &#8211; Ability to commit, motivate and inspire others</span>
-  4. <span style="font-weight: 400;">Leadership &#8211; Behaves and is viewed as a role model and has good judgment of challenging situations</span>
-  5. <span style="font-weight: 400;">Change readiness &#8211; Ability to be open and respond to change</span>
+  1. <span style="font-weight: 400;">Communication - Ability to gather information and communicate effectively about change initiatives</span>
+  2. <span style="font-weight: 400;">Interpersonal - Ability to sustain interpersonal trust</span>
+  3. <span style="font-weight: 400;">Mobilization - Ability to commit, motivate and inspire others</span>
+  4. <span style="font-weight: 400;">Leadership - Behaves and is viewed as a role model and has good judgment of challenging situations</span>
+  5. <span style="font-weight: 400;">Change readiness - Ability to be open and respond to change</span>
 
 <span style="font-weight: 400;">A company that makes sure they have access to the right number of Change Agents, with the right capabilities in the right places will achieve value realization for their initiatives.</span>
 
@@ -70,4 +70,4 @@ categories:
 
 ##### **4** **Change Agent network**
 
-<span style="font-weight: 400;">To support the commitment of these Change Agents, companies ensure they provide a clear and precise description of this role and responsibility. Further, a training program and other resources &#8211; such as plans, templates, and tools &#8211; are also essential, so Change Agents can prove to implement change successfully.  </span>
+<span style="font-weight: 400;">To support the commitment of these Change Agents, companies ensure they provide a clear and precise description of this role and responsibility. Further, a training program and other resources - such as plans, templates, and tools - are also essential, so Change Agents can prove to implement change successfully.  </span>

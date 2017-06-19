@@ -1,6 +1,6 @@
 ---
 id: 1036
-title: 'Elect, empower, enhance &#8211; TOP 3 influencer involvement scenarios'
+title: 'Elect, empower, enhance - TOP 3 influencer involvement scenarios'
 date: 2016-07-05T20:32:52+00:00
 author: orgmapper
 layout: post
@@ -27,7 +27,7 @@ Whether you listen to the most enthusiastic salespeople over Skype or invite the
 
 <span style="color: #f92c49;"><strong>1. Change Management</strong></span>
 
-First and foremost, OrgMapper | INFLUENCE is an essential tool for change management initiatives. Whether it is the **implementation of new safety measures** or **shifting to different customer service processes, etc.**, influencers &#8211; your most influential, motivated and capable employees &#8211; must be identified and brought on board in order to ensure the success of the change program.
+First and foremost, OrgMapper | INFLUENCE is an essential tool for change management initiatives. Whether it is the **implementation of new safety measures** or **shifting to different customer service processes, etc.**, influencers - your most influential, motivated and capable employees - must be identified and brought on board in order to ensure the success of the change program.
 
 **_Customer scenario:_**_ The customer was implementing a digital transformation with the purpose of improving customer service. This transformation meant going digital and leaving paper completely out of processes. Although the change itself was positive and made the daily jobs of employees much easier, our client organization wanted to make sure that the shift was as smooth and seamless as possible. So, they used OrgMapper | INFLUENCE to find their most influential employees and invite them to join their group of change managers leading the change. The role of the influencers was to minimize employee resistance, and to make sure employees had sufficient knowledge about what was required of them._
 

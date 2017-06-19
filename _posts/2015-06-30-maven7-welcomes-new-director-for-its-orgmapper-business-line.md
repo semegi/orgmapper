@@ -30,7 +30,7 @@ tags:
 
 &#8220;With our recent <a href="http://maven7network.blogspot.hu/2015/06/maven7-raises-total-of-23m-to-bring-network-science-to-commercial-mass-audience.html" target="_blank" rel="noopener noreferrer">round of funding</a> we felt the time was just right to appoint a strategic leader who can help us take advantage of the tremendous opportunities in the marketplace, and bring new insights into our operations.&#8221; – said András Vicsek, Maven7&#8217;s co-founder and head of research. &#8220;We are delighted Hiske accepted our invitation.&#8221;
 
-&#8220;I have been working with Maven7 part-time since last year as a senior business consultant&#8221; &#8211; commented Hiske, &#8220;mostly assisting clients in understanding what benefits organizational network analysis can provide for their organizations. Now I&#8217;m looking forward to diving in deeper and making a real impact on business objectives, whilst also growing our team of OrgMapper experts.&#8221;
+&#8220;I have been working with Maven7 part-time since last year as a senior business consultant&#8221; - commented Hiske, &#8220;mostly assisting clients in understanding what benefits organizational network analysis can provide for their organizations. Now I&#8217;m looking forward to diving in deeper and making a real impact on business objectives, whilst also growing our team of OrgMapper experts.&#8221;
 
 Over the past 17 years Hiske has worked for multiple management consulting firms, including Accenture and PricewaterhouseCoopers, leading numerous large-scale HR projects, and is now ready to take OrgMapper forward and further expand its global reach and capabilities.
 

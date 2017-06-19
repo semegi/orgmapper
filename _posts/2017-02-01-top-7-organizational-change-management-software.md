@@ -38,7 +38,7 @@ categories:
 </p>
 
 <h3 style="text-align: justify;">
-  <span style="font-family: 'Open Sans';"> Nakisa &#8211; OrgModeler</span>
+  <span style="font-family: 'Open Sans';"> Nakisa - OrgModeler</span>
 </h3>
 
 <p style="text-align: justify;">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <h3 style="text-align: justify;">
-  <span style="font-family: 'Open Sans';">jTask &#8211; Pulse</span>
+  <span style="font-family: 'Open Sans';">jTask - Pulse</span>
 </h3>
 
 <p style="text-align: justify;">

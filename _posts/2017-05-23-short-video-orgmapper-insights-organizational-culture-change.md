@@ -1,32 +1,34 @@
 ---
+title: 'Short video: OrgMapper | Insights - Organizational Culture Change'
 id: 766
-title: 'Short video: OrgMapper | Insights &#8211; Organizational Culture Change'
-date: 2017-05-23T09:17:13+00:00
+date: '2017-05-23 11:17:13 +0200'
 author: orgmapper
 layout: post
 guid: http://blog.orgmapper.com/?p=766
 permalink: short-video-orgmapper-insights-organizational-culture-change/
 categories:
-  - ChangeMapper
-  - Organizational Change Management
-  - Organizational Network Analysis
-  - OrgMapper
-  - Social Network Analysis
+- ChangeMapper
+- Organizational Change Management
+- Organizational Network Analysis
+- OrgMapper
+- Social Network Analysis
 tags:
-  - Change Agents
-  - Change Management
-  - ChangeMapper
-  - Deeper Insights
-  - Hidden Influencers
-  - Hiske den Boer
-  - Key Learning Points
-  - Maven7
-  - Organizational Network Analysis
-  - OrgMapper
+- Change Agents
+- Change Management
+- ChangeMapper
+- Deeper Insights
+- Hidden Influencers
+- Hiske den Boer
+- Key Learning Points
+- Maven7
+- Organizational Network Analysis
+- OrgMapper
 ---
+
 OrgMapper | Insights is back with a new video, in which, **Hiske den Boer, Director at OrgMapper**, talks about organizational culture change and its effects on the established social arrangements for doing work.
 
-
+<iframe src="https://www.youtube.com/embed/ghWx6qrSIsA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+{% include youtube.html src=https://www.youtube.com/embed/ghWx6qrSIsA" %}
 
 **Key Learning points of this episode:**
 
